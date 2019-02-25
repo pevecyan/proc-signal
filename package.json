@@ -1,0 +1,19 @@
+{
+  "name": "proc-signal",
+  "version": "1.0.0",
+  "description": "Small lib for sending signals to processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pevecyan/proc-signal.git"
+  },
+  "author": "Žan Pevec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pevecyan/proc-signal/issues"
+  },
+  "homepage": "https://github.com/pevecyan/proc-signal#readme"
+}
